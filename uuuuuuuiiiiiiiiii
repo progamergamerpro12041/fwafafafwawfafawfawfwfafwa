@@ -62,7 +62,7 @@ local function DropdownIcon(ButtonOrNot)
 	NewDropdownIcon.Image = IconLibraryID2
 	NewDropdownIcon.ImageRectOffset = Vector2.new(324,364)
 	NewDropdownIcon.ImageRectSize = Vector2.new(36,36)
-	NewDropdownIcon.Size = UDim2.new(0,16,0,16)
+	NewDropdownIcon.Size = UDim2.new(0,17,0,17)
 	NewDropdownIcon.Position = UDim2.new(1,-18,0,2)
 	NewDropdownIcon.ZIndex = Level
 	return NewDropdownIcon
