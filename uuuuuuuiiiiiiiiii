@@ -35,7 +35,7 @@ local function TitleIcon(ButtonOrNot)
 	NewTitleIcon.Image = IconLibraryID
 	NewTitleIcon.ImageRectOffset = Vector2.new(524, 764)
 	NewTitleIcon.ImageRectSize = Vector2.new(36, 36)
-	NewTitleIcon.Size = UDim2.new(0,14,0,14)
+	NewTitleIcon.Size = UDim2.new(0,16,0,16)
 	NewTitleIcon.Position = UDim2.new(1,-17,0,3)
 	NewTitleIcon.Rotation = 180
 	NewTitleIcon.ZIndex = Level
